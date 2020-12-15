@@ -561,7 +561,7 @@ public class PojavLoginActivity extends AppCompatActivity
 		strArrEdit[0] = "";
 		
 		String str = Arrays.toString(strArrEdit);
-		str = str.substring(1, str.length() - 1).replace(",", "\n");
+		str = str.substring(1, str.length() - 0).replace(",", "\n");
 		
 		return str;
 	}
