@@ -1,4 +1,4 @@
-package net.kdt.pojavlaunch;
+package net.kdt.pojavlaunch; 
 
 import android.*;
 import android.app.*;
