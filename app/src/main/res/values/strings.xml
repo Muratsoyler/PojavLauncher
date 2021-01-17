@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<!-- App name part -->
-    <string name="app_name">PojavLauncher (Minecraft: Java Edition for Android)</string>
-	<string name="app_short_name">PojavLauncher</string>
+    <string name="app_name">SwimmingBoat Launcher</string>
+	<string name="app_short_name">SwimmingBoat Launcher</string>
 	<string name="app_motd">Launch Minecraft: Java Edition in your device!</string>
 
 	<!-- Action bar part -->
@@ -165,7 +165,7 @@
 	<string name="control_secondary">Sec</string>
 	<string name="control_shift">◇</string>
 	<string name="control_inventory">Inv</string>
-	<string name="control_up">▲</string>
+	<string name="control_up">|</string>
 	<string name="control_left">◀</string>
 	<string name="control_right">▶</string>
 	<string name="control_down">▼</string>
